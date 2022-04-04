@@ -1,1 +1,1 @@
-# Linear-discriminant-Function
+# Linear-discriminant-Function-naive-bayes
